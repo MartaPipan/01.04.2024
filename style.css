@@ -1,0 +1,16 @@
+
+/* @import url(./assets/css/reset.css); */
+/* @import './assets/css/reset.css'; */
+/* @import './assets/css/fonts.css'; */
+/* @import './assets/css/print.css' print; */
+/* @import './assets/css/screen.css' screen; */
+/* @import './assets/css/common.css' all; */
+
+:root {
+        
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    * {
+        box-sizing: border-box;
+    }
